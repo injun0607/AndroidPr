@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="intro_main">
+        메신저에서 휴대폰 연락처에 있는 사람들을 찾아보세요
+    </string>
+
+    <string name="intro_detail">
+        연락처 게속 업로드
+    </string>
+    <string name="intro_more">더 알아보기</string>
+    <string name="intro_button">설정</string>
+    <string name="intro_delay">나중에 하기</string>
+</resources>
