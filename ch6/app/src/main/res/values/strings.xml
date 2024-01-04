@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CH6_view</string>
+    <string name="main_desc">
+        서히의 기여운 정보 보호를 위해, 서히의 현재비밀번호를 확인해 주세요
+    </string>
+    <string name="password_txt">
+        기여운 서히는 비밀번호를 잊어버렸어요
+    </string>
+</resources>
